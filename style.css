@@ -188,4 +188,10 @@ main {
     background-color: darkred;
     color: white;
 }
-
+@media (max-width: 768px) {
+   .btn{
+    width: 100%;
+    margin-bottom: 10px;
+    display: block;
+   }
+  }
